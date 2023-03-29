@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184029817304",
+    "project_id": "alarmclock-e8486",
+    "storage_bucket": "alarmclock-e8486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184029817304:android:53f992bbfc8d66fd6baaad",
+        "android_client_info": {
+          "package_name": "com.example.demo_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184029817304-q7j8cpr2ugv2ii1snt2nlv630c0s2pdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7nSSFuUDOf_Ok_sw-v-Snmubhk8eFt5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184029817304-q7j8cpr2ugv2ii1snt2nlv630c0s2pdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
